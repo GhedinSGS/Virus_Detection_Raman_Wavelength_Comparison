@@ -1,23 +1,25 @@
 <!-- Center the main title -->
 <h1 align="center">Rapid and label-free Influenza A subtyping using surface-enhanced Raman spectroscopy with incident-wavelength analysis</h1>
 
-<h5 align='center'>This project tests the incident wavelength of Raman spectroscopy (785 nm vs 532) to detect viruses. Additionally, we test the robustness of our previously published platform by introducing biological replicates (having separate growth cultures), variation between runs, and variation in the CNT platform. Finally, we demonstrate how this technology works in the real world by performing a data simulation.</h5>
+<p align=center>This project tests the incident wavelength of Raman spectroscopy (785 nm vs 532) to detect viruses. Additionally, we test the robustness of our previously published platform by introducing biological replicates (having separate growth cultures), variation between runs, and variation in the CNT platform. Finally, we demonstrate how this technology works in the real world by performing a data simulation.</p>
 
 
-## Table of Contents
+## Table of Contents:
 - [Table of Contents](#table-of-contents)
 - [Manuscript information](#manuscript-information)
 - [Location of Files and Code](#location-of-files-and-code)
 
-## Manuscript information
+---
 
-**_Rapid and label-free Influenza A subtyping using surface-enhanced Raman spectroscopy with incident-wavelength analysis_**    
-RYEANNE RICKER<sup>1,2</sup>, NESTOR PEREA<sup>3</sup>,  MURRAY LOEW<sup>2</sup>, AND ELODIE GHEDIN<sup>1,*</sup>   
+## Manuscript information:
 
-**Author Affiliations**: 
-- <sup>1</sup>Affiliation 1
-- <sup>2</sup>Affiliation 2
-- <sup>2</sup>Affiliation 2
+<h3 align=center>Rapid and label-free Influenza A subtyping using surface-enhanced Raman spectroscopy with incident-wavelength analysis</h3>
+<p align=center>RYEANNE RICKER<sup>1,2</sup>, NESTOR PEREA<sup>3</sup>,  MURRAY LOEW<sup>2</sup>, AND ELODIE GHEDIN<sup>1,*</sup><p align=center>
+
+**Author Affiliations**:        
+<sup>1</sup>National Institute of Allergy and Infectious Diseases, National Institutes of Health, 50 South Drive, Building 50, Bethesda, MD 20892, USA      
+<sup>2</sup>Department of Biomedical Engineering, George Washington University, 800 22nd St NW, Washington, DC 20052, USA       
+<sup>3</sup>Department of Physics, Pennsylvania State University, University Park, PA 16802, USA        
 
 **For more information please contact**: [elodie.ghedin@nih.gov](mailto:main.author@example.com)
 
@@ -28,7 +30,7 @@ RYEANNE RICKER<sup>1,2</sup>, NESTOR PEREA<sup>3</sup>,  MURRAY LOEW<sup>2</sup>
 
 ---
 
-## Location of Files and Code
+## Location of Files and Code:
 
 - **Data**: [`data/`](https://github.com/GhedinSGS/Virus_Detection_Raman_Wavelength_Comparison/tree/main/data) - Collected at 100X magnification for 5 seconds with 400 spectra collected per biological replicate. 40 files in total, each with 400 spectra.
     - [`data/532nm`](https://github.com/GhedinSGS/Virus_Detection_Raman_Wavelength_Comparison/tree/main/data/532nm) - 20 files
